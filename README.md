@@ -1,5 +1,5 @@
-# Stone-Paper-Scissor
-Stone Paper Scissor using Python
+# Rock-Paper-Scissor
+Rock Paper Scissor using Python
 
 
 Python 3.6 or above is required

@@ -56,7 +56,7 @@ def play():
             else:
                 msg = "You have entered wrong move"
         
-        messagebox.showinfo("Result", msg)     
+        tkinter.messagebox.showinfo("Result", msg)     
         
         
     stone = Button(window, height=3, width=10, text='Stone', command=lambda:compute('stone'), bg='brown')
